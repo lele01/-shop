@@ -532,38 +532,8 @@
  	background: red;
  	
  }
- .dl{
- 	width: 650px;
- 	/*height: 32px;*/
- 	float: left;
- 	/*margin-top: 5px;*/
- 	background: orange;
- }
- .limit{
- 	width: 55px;
- 	height: 40px;
- 	line-height: 32px;
- 	float: left;
- /*	margin-top: -20px;
- 	margin-bottom: 10px;*/
- 	border: 1px solid #ccc;
- }
- .list{
- 	width: 660px;
- 	height: 40px;
- 	float: left;
- /*	 margin-left: 120px;
- 	 margin-top: -70px;*/
- 	  
- 	line-height: 32px;
-    border: 1px solid #ccc;
-
- }
- .list li{
- 	float: left;
- 	padding-right:90px;
-  border: 1px solid black;
- }
+  
+ 
 
   .brand2{
   	width: 800px;
